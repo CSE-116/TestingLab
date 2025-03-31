@@ -26,4 +26,4 @@ This method takes in a LinkedListNode of type String and returns a boolean. This
  
 
 **Method 5: AverageOfLinkedList-**
-This method will take in a LinkedListNode of type Integer and return a double. The method will return the average of all the values of the LinkedList. If the LinkedListNode is empty, return 0.  
+This method will take in a LinkedListNode of type Integer and return a double. The method will return the average of all the values of the LinkedList. If the LinkedListNode is empty, return 0.0.  
