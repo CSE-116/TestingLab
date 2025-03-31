@@ -1,7 +1,7 @@
 # Lab 2
 
 **Testing Lab**
-This lab will primarily focus on testing. In this lab, you are given methods that have little to no functionality. Your mission is to NOT implement the methods, but to simply write tests for them. At the end of the lab, you may copy and paste the correct solutions and see if your tests are correct. The solutions along with sample tests are provided in [https://github.com/CSE-116/TestingLabSolutions]. Method 1 tests will be provided for you so that you can get an idea of how test driven development is handled. 
+This lab will primarily focus on testing. In this lab, you are given methods that have little to no functionality. Your mission is to NOT implement the methods, but to simply write tests for them. At the end of the lab, you may copy and paste the correct solutions and see if your tests are correct. The solutions along with sample tests are provided in https://github.com/CSE-116/TestingLabSolutions. Method 1 tests will be provided for you so that you can get an idea of how test driven development is handled. 
 
  
 
