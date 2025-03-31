@@ -1,6 +1,6 @@
 # Lab 2
 
-_**Testing Lab _**
+**Testing Lab**
 This lab will primarily focus on testing. In this lab, you are given methods that have little to no functionality. Your mission is to NOT implement the methods, but to simply write tests for them. At the end of the lab, you may copy and paste the correct solutions and see if your tests are correct. There will also be a checklist in the Read Me to see if you have tested all the functionality. Method 1 tests will be provided for you so that you can get an idea of how test driven development is handled. 
 
  
